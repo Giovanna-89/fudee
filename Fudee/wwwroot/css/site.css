@@ -1,0 +1,27 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.interspace div{
+    margin-bottom: 1em;
+}
